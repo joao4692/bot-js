@@ -1,0 +1,6 @@
+{
+  "name": "examplePlugin",
+  "enabled": true,
+  "description": "Plugin de exemplo para arquitetura modular enterprise. Pode conter comandos, eventos e serviços próprios.",
+  "version": "1.0.0"
+}

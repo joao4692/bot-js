@@ -1,0 +1,874 @@
+{
+    "server": "Servidor de dr3f4lt",
+    "roles": [
+        {
+            "name": "🎣 CAÇADOR",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "⚖️ JUIZ",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Major",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🧑‍🔧 MECÂNICO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏥 MÉDICO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🎟️ SUPORTE",
+            "color": 12745742,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Tenente",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🌾 FAZENDEIRO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🧾 CIDADÃO",
+            "color": 196352,
+            "hoist": true,
+            "permissions": "0"
+        },
+        {
+            "name": "🚗 DETRAN",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🪓 LENHADOR",
+            "color": 9807270,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "COE",
+            "color": 1184274,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏗️ CONSTRUTOR",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "Ficha suja",
+            "color": 15277667,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "⛏️ MINERADOR",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "👑 FUNDADOR",
+            "color": 15844367,
+            "hoist": true,
+            "permissions": "8"
+        },
+        {
+            "name": "🔫 ARMEIRO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Sargento",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "⚖️ ADVOGADO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏢 EMPRESÁRIO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "ADV 3",
+            "color": 15277667,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "⠀⠀⠀⠀⠀⠀⠀⠀",
+            "color": 0,
+            "hoist": false,
+            "permissions": "8"
+        },
+        {
+            "name": "🔧 MODERADOR",
+            "color": 60159,
+            "hoist": true,
+            "permissions": "2"
+        },
+        {
+            "name": "🏅 Tenente-Coronel",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🤖 BOT",
+            "color": 33535,
+            "hoist": true,
+            "permissions": "8"
+        },
+        {
+            "name": "💊 NARCO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "💊FARMACEUTICO",
+            "color": 3447003,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "ADV 2",
+            "color": 15277667,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🛡️ ADMINISTRADOR",
+            "color": 16711684,
+            "hoist": true,
+            "permissions": "8"
+        },
+        {
+            "name": "🏅 Recruta",
+            "color": 3066993,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "BRICS",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏛️ PREFEITO",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🚔 POLÍCIA",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "💎 VIP",
+            "color": 14352128,
+            "hoist": true,
+            "permissions": "0"
+        },
+        {
+            "name": "ADV 1",
+            "color": 15277667,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🚗CONCESSONARIA",
+            "color": 15277667,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🛒 LOJISTA",
+            "color": 15105570,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "MELICIANO",
+            "color": 2067276,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅Coronel",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Comandante-Geral",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Soldado",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏴‍☠️ MILÍCIA",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "💎BANQUEIRO",
+            "color": 12745742,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Capitão",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🏅 Cabo",
+            "color": 1752220,
+            "hoist": false,
+            "permissions": "0"
+        },
+        {
+            "name": "🚛 TRANSPORTADOR",
+            "color": 0,
+            "hoist": false,
+            "permissions": "0"
+        }
+    ],
+    "categories": [
+        {
+            "id": "1486076042270609562",
+            "name": "🚨 SUPORTE"
+        },
+        {
+            "id": "1486076043050619012",
+            "name": "💰 BANCO"
+        },
+        {
+            "id": "1486076043960910059",
+            "name": "logs dayz"
+        },
+        {
+            "id": "1486076043541352496",
+            "name": "🏛️GOVERNO"
+        },
+        {
+            "id": "1486076042891362509",
+            "name": "🏭 INDÚSTRIA"
+        },
+        {
+            "id": "1486076043734548582",
+            "name": "🚗 DETRAN"
+        },
+        {
+            "id": "1486076042090123306",
+            "name": "💬 GERAL"
+        },
+        {
+            "id": "1486076042736304327",
+            "name": "🏥 HOSPITAL"
+        },
+        {
+            "id": "1486076041679343806",
+            "name": "👀 BOAS-VINDAS"
+        },
+        {
+            "id": "1486076043356930114",
+            "name": "💎 ÁREA VIP"
+        },
+        {
+            "id": "1486076043541352491",
+            "name": "🏭INDUSTRIA"
+        },
+        {
+            "id": "1486076042429988865",
+            "name": "📁 STAFF"
+        },
+        {
+            "id": "1486076043197677636",
+            "name": "⚙️ SISTEMA"
+        },
+        {
+            "id": "1486076042090123313",
+            "name": "🕵️ WHITELIST"
+        },
+        {
+            "id": "1486076043356930118",
+            "name": "🐆COMPRA PELE"
+        },
+        {
+            "id": "1486076042593439842",
+            "name": "🚔 POLÍCIA"
+        },
+        {
+            "id": "1486076043960910061",
+            "name": "bot discord"
+        },
+        {
+            "id": "1486076043356930115",
+            "name": "🧱 BRICS"
+        },
+        {
+            "id": "1486076043734548587",
+            "name": "🔫 LOJA DE ARMAS"
+        },
+        {
+            "id": "1486076043960910056",
+            "name": "ticket"
+        },
+        {
+            "id": "1486076043960910057",
+            "name": "logs"
+        },
+        {
+            "id": "1486076042593439837",
+            "name": "🏛️ GOVERNO"
+        },
+        {
+            "id": "1486076043734548591",
+            "name": "🎣 PESCA"
+        },
+        {
+            "id": "1486076043050619018",
+            "name": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "id": "1486076043050619015",
+            "name": "🐆 CAÇA"
+        },
+        {
+            "id": "1486076043197677631",
+            "name": "💎 VIP"
+        }
+    ],
+    "channels": [
+        {
+            "name": "💊-farmacia",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "📋-cnh",
+            "type": 0,
+            "parent": "🚗 DETRAN"
+        },
+        {
+            "name": "🔊 CALL LOJA DE ARMAS",
+            "type": 2,
+            "parent": "🔫 LOJA DE ARMAS"
+        },
+        {
+            "name": "🔊 CALL HOSPITAL",
+            "type": 2,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "💉-estoque-medicamentos",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "🏢prefeitura",
+            "type": 0,
+            "parent": "🏛️ GOVERNO"
+        },
+        {
+            "name": "👮‍♀️-regras-abordagem",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🏴mercado-negro",
+            "type": 0,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "🐗animais-em-extinçao",
+            "type": 0,
+            "parent": "🐆COMPRA PELE"
+        },
+        {
+            "name": "🧾-enquetes",
+            "type": 0,
+            "parent": "👀 BOAS-VINDAS"
+        },
+        {
+            "name": "╰-🔊・atendimento-03",
+            "type": 2,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "💎vip-facçao-ou-melicia",
+            "type": 0,
+            "parent": "💎 VIP"
+        },
+        {
+            "name": "👮-pena-prisao",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🚤 CALL GUARDA COSTEIRA",
+            "type": 2,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🧾tabela-compra-peles",
+            "type": 0,
+            "parent": "🐆 CAÇA"
+        },
+        {
+            "name": "cmd",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "🧑‍🎓juiz",
+            "type": 0,
+            "parent": "🏛️ GOVERNO"
+        },
+        {
+            "name": "🧱CALL BRICS",
+            "type": 2,
+            "parent": "🧱 BRICS"
+        },
+        {
+            "name": "├-🔊・atendimento-02",
+            "type": 2,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "🧾-convites",
+            "type": 0,
+            "parent": "👀 BOAS-VINDAS"
+        },
+        {
+            "name": "💳pix",
+            "type": 0,
+            "parent": "💰 BANCO"
+        },
+        {
+            "name": "🏦lista-de-comandos-banco",
+            "type": 0,
+            "parent": "💰 BANCO"
+        },
+        {
+            "name": "🏗️・builds",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "membro-entrada",
+            "type": 0,
+            "parent": "logs"
+        },
+        {
+            "name": "🔫-loja-de-armas",
+            "type": 0,
+            "parent": "🔫 LOJA DE ARMAS"
+        },
+        {
+            "name": "🎁-vantagens-vip",
+            "type": 0,
+            "parent": "💎 VIP"
+        },
+        {
+            "name": "🟩︱ticket",
+            "type": 0,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "com-erro",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "💎vip-das-lojas",
+            "type": 0,
+            "parent": "💎 VIP"
+        },
+        {
+            "name": "🥫fabrica-alimenticia",
+            "type": 0,
+            "parent": "🏭 INDÚSTRIA"
+        },
+        {
+            "name": "🩺-atendimento",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "🔊 Geral-1",
+            "type": 2,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "🔫frabrica-de-armamentos",
+            "type": 0,
+            "parent": "🏭INDUSTRIA"
+        },
+        {
+            "name": "📢-avisos-oficiais",
+            "type": 0,
+            "parent": "👀 BOAS-VINDAS"
+        },
+        {
+            "name": "👮-mandado-de-busca",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🚨call-suporte",
+            "type": 2,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "👨‍🎓codigo-de-transito",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🔊 CALL VIP",
+            "type": 2,
+            "parent": "💎 VIP"
+        },
+        {
+            "name": "📌・avisos-staff",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "🏥-hospital",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "🤖・bot-testes",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "🧨-desmanche",
+            "type": 0,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "💬・chat-staff",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "🛒-vendas",
+            "type": 0,
+            "parent": "🎣 PESCA"
+        },
+        {
+            "name": "🎙️・call-admin",
+            "type": 2,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "log-geral",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "👨‍💼comandos-e-tabela",
+            "type": 0,
+            "parent": "🚗 DETRAN"
+        },
+        {
+            "name": "📮solicitar-identidade",
+            "type": 0,
+            "parent": "🕵️ WHITELIST"
+        },
+        {
+            "name": "📋-faça-sua-whitelist",
+            "type": 0,
+            "parent": "🕵️ WHITELIST"
+        },
+        {
+            "name": "🗿-catalogo-armas",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "🧠・ideias",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "💣-chat-geral",
+            "type": 0,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "call pescador",
+            "type": 2,
+            "parent": "🎣 PESCA"
+        },
+        {
+            "name": "🚫regras-do-caçador",
+            "type": 0,
+            "parent": "🐆 CAÇA"
+        },
+        {
+            "name": "🔊 Geral-2",
+            "type": 2,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "🔊 CALL WHITELIST 2",
+            "type": 2,
+            "parent": "🕵️ WHITELIST"
+        },
+        {
+            "name": "🔊 CALL WHITELIST 1",
+            "type": 2,
+            "parent": "🕵️ WHITELIST"
+        },
+        {
+            "name": "sem-erro",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "⚒️materias-de-construcao",
+            "type": 0,
+            "parent": "🏭INDUSTRIA"
+        },
+        {
+            "name": "📋-prontuarios",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "🔊 CALL DETRAN",
+            "type": 2,
+            "parent": "🚗 DETRAN"
+        },
+        {
+            "name": "📱lista-comandos",
+            "type": 0,
+            "parent": "🔫 LOJA DE ARMAS"
+        },
+        {
+            "name": "📢・feedback",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "membros-all",
+            "type": 0,
+            "parent": "logs dayz"
+        },
+        {
+            "name": "💻lista-comando",
+            "type": 0,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "🔧pecas-automotivas",
+            "type": 0,
+            "parent": "🏭 INDÚSTRIA"
+        },
+        {
+            "name": "🎙️・call-staff",
+            "type": 2,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "📁・arquivos",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "👘frabica-de-costura",
+            "type": 0,
+            "parent": "🏭INDUSTRIA"
+        },
+        {
+            "name": "🏎️-registro-veiculo",
+            "type": 0,
+            "parent": "🚗 DETRAN"
+        },
+        {
+            "name": "📝comandos-bot",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🚍montadora-automotiva",
+            "type": 0,
+            "parent": "🏭INDUSTRIA"
+        },
+        {
+            "name": "💵folha-de-pagamento-prefeito",
+            "type": 0,
+            "parent": "🏛️GOVERNO"
+        },
+        {
+            "name": "logs",
+            "type": 0,
+            "parent": "⚙️ SISTEMA"
+        },
+        {
+            "name": "🎮-denuncias",
+            "type": 0,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "call",
+            "type": 2,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "⚙️-sobre-tickets",
+            "type": 0,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "📑codigo-penal",
+            "type": 0,
+            "parent": "🏛️ GOVERNO"
+        },
+        {
+            "name": "╭-🔊・atendimento-01",
+            "type": 2,
+            "parent": "🚨 SUPORTE"
+        },
+        {
+            "name": "🏴‍☠️-milicia",
+            "type": 0,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "👁️regras",
+            "type": 0,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "🗡️fabrica-caça-pesca-untensilios",
+            "type": 0,
+            "parent": "🏭 INDÚSTRIA"
+        },
+        {
+            "name": "💊-narcotrafico",
+            "type": 0,
+            "parent": "🏴‍☠️ ILEGAL"
+        },
+        {
+            "name": "🔊 VOZ - STAFF",
+            "type": 2,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "🚓 CALL PATRULHAMENTO",
+            "type": 2,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "💊industria-farmaceutica",
+            "type": 0,
+            "parent": "🏭 INDÚSTRIA"
+        },
+        {
+            "name": "📜-regras",
+            "type": 0,
+            "parent": "👀 BOAS-VINDAS"
+        },
+        {
+            "name": "🧩・configs-bot",
+            "type": 0,
+            "parent": "📁 STAFF"
+        },
+        {
+            "name": "🎯-equipamentos-de-caça",
+            "type": 0,
+            "parent": "🐆COMPRA PELE"
+        },
+        {
+            "name": "📸-midia-rp",
+            "type": 0,
+            "parent": "💬 GERAL"
+        },
+        {
+            "name": "🚑-ambulancias",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "📋-boletim-ocorrencia",
+            "type": 0,
+            "parent": "🚔 POLÍCIA"
+        },
+        {
+            "name": "🕍economia",
+            "type": 0,
+            "parent": "🏛️GOVERNO"
+        },
+        {
+            "name": "geral",
+            "type": 0,
+            "parent": "bot discord"
+        },
+        {
+            "name": "🧱tabela-de-compra",
+            "type": 0,
+            "parent": "🧱 BRICS"
+        },
+        {
+            "name": "🧑‍⚕️-socorristas",
+            "type": 0,
+            "parent": "🏥 HOSPITAL"
+        },
+        {
+            "name": "JUIZ E ADVOGADO",
+            "type": 2,
+            "parent": "🏛️ GOVERNO"
+        }
+    ]
+}

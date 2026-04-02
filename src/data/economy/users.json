@@ -1,0 +1,26 @@
+{
+    "local_693689841665310770_1457328140681744418": {
+        "wallet": 0,
+        "bank": 0,
+        "lastDaily": 0,
+        "lastWork": 0,
+        "lastRob": 0,
+        "transactions": []
+    },
+    "local_1457328140681744418_922129389636976700": {
+        "wallet": 0,
+        "bank": 0,
+        "lastDaily": 0,
+        "lastWork": 0,
+        "lastRob": 0,
+        "transactions": []
+    },
+    "local_1457251523850408109_1457328140681744418": {
+        "wallet": 4282,
+        "bank": 0,
+        "lastDaily": 0,
+        "lastWork": 1771739296183,
+        "lastRob": 0,
+        "transactions": []
+    }
+}

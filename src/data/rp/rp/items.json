@@ -1,0 +1,9 @@
+{
+  "01": {
+    "name": "teste",
+    "description": "teste 01",
+    "price": 10,
+    "sell_price": 10,
+    "type": "teste"
+  }
+}

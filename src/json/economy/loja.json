@@ -1,0 +1,11 @@
+{
+  "vip": {
+    "nome": "VIP",
+    "preco": 5000,
+    "cargoId": "123456789"
+  },
+  "tag": {
+    "nome": "Tag exclusiva",
+    "preco": 2000
+  }
+}

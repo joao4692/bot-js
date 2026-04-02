@@ -1,0 +1,123 @@
+{
+  "id": "1000868973707022417",
+  "guildId": "1457328140681744418",
+  "createdAt": "2026-04-01T19:38:02.596Z",
+  "lastUpdated": "2026-04-01T19:38:02.596Z",
+  "economy": {
+    "balance": 1000,
+    "bank": {
+      "checking": 500,
+      "savings": 0,
+      "investments": []
+    },
+    "cards": {
+      "debit": {
+        "enabled": true,
+        "limit": 1000
+      },
+      "credit": {
+        "enabled": false,
+        "limit": 0,
+        "debt": 0
+      }
+    },
+    "transactions": [],
+    "taxes": {
+      "incomeTax": 0,
+      "ipva": {},
+      "municipal": 0,
+      "lastPaid": "2026-04-01T19:38:02.596Z"
+    }
+  },
+  "rp": {
+    "health": {
+      "life": 100,
+      "hunger": 100,
+      "thirst": 100,
+      "sleep": 100
+    },
+    "skills": {
+      "strength": {
+        "level": 1,
+        "xp": 0
+      },
+      "intelligence": {
+        "level": 1,
+        "xp": 0
+      },
+      "agility": {
+        "level": 1,
+        "xp": 0
+      },
+      "charisma": {
+        "level": 1,
+        "xp": 0
+      },
+      "driving": {
+        "level": 1,
+        "xp": 0
+      },
+      "shooting": {
+        "level": 1,
+        "xp": 0
+      },
+      "medical": {
+        "level": 1,
+        "xp": 0
+      },
+      "mechanics": {
+        "level": 1,
+        "xp": 0
+      }
+    },
+    "inventory": {
+      "items": [],
+      "maxWeight": 50,
+      "currentWeight": 0
+    },
+    "vehicles": [],
+    "documents": {
+      "cnh": null,
+      "rg": null,
+      "passport": null,
+      "licenses": {}
+    }
+  },
+  "work": {
+    "currentJob": null,
+    "company": null,
+    "position": "trainee",
+    "salary": 0,
+    "hourlyRate": 50,
+    "performance": {
+      "score": 0,
+      "bonuses": 0,
+      "promotions": 0
+    },
+    "benefits": {
+      "mealTicket": false,
+      "healthPlan": false,
+      "transportation": false
+    },
+    "workHistory": [],
+    "lastPaycheck": "2026-04-01T19:38:02.596Z"
+  },
+  "legal": {
+    "criminalRecord": [],
+    "activeWarrants": [],
+    "fines": [],
+    "licenses": {
+      "driver": {
+        "valid": true,
+        "points": 0
+      },
+      "weapon": {
+        "valid": false
+      },
+      "business": {
+        "valid": false
+      }
+    },
+    "cases": []
+  }
+}

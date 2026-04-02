@@ -1,0 +1,39 @@
+{
+  "jobs": [
+    {
+      "id": "policial",
+      "name": "Policial",
+      "description": "Mantém a ordem e segurança na cidade",
+      "salary": 5000,
+      "permissions": ["prender", "multar", "apreender"]
+    },
+    {
+      "id": "medico",
+      "name": "Médico",
+      "description": "Trata os feridos e salva vidas",
+      "salary": 4500,
+      "permissions": ["curar", "reviver"]
+    },
+    {
+      "id": "mecanico",
+      "name": "Mecânico",
+      "description": "Repara veículos e manutenção",
+      "salary": 3500,
+      "permissions": ["reparar", "rebocar"]
+    },
+    {
+      "id": "taxista",
+      "name": "Taxista",
+      "description": "Transporta cidadãos pela cidade",
+      "salary": 2000,
+      "permissions": ["dirigir_taxi"]
+    },
+    {
+      "id": "civil",
+      "name": "Civil",
+      "description": "Cidadão comum da cidade",
+      "salary": 1000,
+      "permissions": []
+    }
+  ]
+}

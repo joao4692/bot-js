@@ -1,0 +1,113 @@
+{
+    "1457328140681744418_693689841665310770": {
+        "userId": "693689841665310770",
+        "guildId": "1457328140681744418",
+        "wallet": 0,
+        "bank": 10,
+        "savings": 0,
+        "lastDaily": 0,
+        "lastWeekly": 0,
+        "lastMonthly": 0,
+        "loans": [],
+        "totalLoaned": 0,
+        "transactionHistory": [
+            {
+                "type": "withdraw",
+                "amount": 1000,
+                "timestamp": 1771730292814,
+                "description": "Saque via comando",
+                "balance": 9000
+            },
+            {
+                "type": "withdraw",
+                "amount": 9000,
+                "timestamp": 1771730312331,
+                "description": "Saque via comando",
+                "balance": 0
+            },
+            {
+                "type": "transfer_received",
+                "amount": 10,
+                "timestamp": 1771732637936,
+                "description": "Transferência via comando de 922129389636976700",
+                "balance": 10,
+                "sender": "922129389636976700"
+            }
+        ],
+        "accountCreated": 1769056029365,
+        "accountLevel": 1,
+        "bankLimit": 100000,
+        "accountStatus": "active"
+    },
+    "1457328140681744418_922129389636976700": {
+        "userId": "922129389636976700",
+        "guildId": "1457328140681744418",
+        "wallet": 0,
+        "bank": 9980,
+        "savings": 0,
+        "lastDaily": 0,
+        "lastWeekly": 0,
+        "lastMonthly": 0,
+        "loans": [],
+        "totalLoaned": 0,
+        "transactionHistory": [
+            {
+                "type": "withdraw",
+                "amount": 15,
+                "timestamp": 1771731733602,
+                "description": "Saque via comando",
+                "balance": 100
+            },
+            {
+                "type": "deposit",
+                "amount": 30,
+                "timestamp": 1771732004475,
+                "description": "Depósito via comando",
+                "balance": 130
+            },
+            {
+                "type": "withdraw",
+                "amount": 130,
+                "timestamp": 1771732053804,
+                "description": "Saque via comando",
+                "balance": 0
+            },
+            {
+                "type": "withdraw",
+                "amount": 10,
+                "timestamp": 1771732613488,
+                "description": "Saque via comando",
+                "balance": 9990
+            },
+            {
+                "type": "transfer_sent",
+                "amount": 10,
+                "timestamp": 1771732637936,
+                "description": "Transferência via comando para 693689841665310770",
+                "balance": 9980,
+                "recipient": "693689841665310770"
+            }
+        ],
+        "accountCreated": 1771729102722,
+        "accountLevel": 1,
+        "bankLimit": 100000,
+        "accountStatus": "active"
+    },
+    "1457328140681744418_1457251523850408109": {
+        "userId": "1457251523850408109",
+        "guildId": "1457328140681744418",
+        "wallet": 0,
+        "bank": 0,
+        "savings": 0,
+        "lastDaily": 0,
+        "lastWeekly": 0,
+        "lastMonthly": 0,
+        "loans": [],
+        "totalLoaned": 0,
+        "transactionHistory": [],
+        "accountCreated": 1771730218124,
+        "accountLevel": 1,
+        "bankLimit": 100000,
+        "accountStatus": "active"
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "commands": {
+    "1457328140681744418": {
+      "mandado emitir": {
+        "level": "custom",
+        "roles": [
+          "1457776353314083087"
+        ],
+        "users": [],
+        "blockedChannels": [],
+        "allowedChannels": [],
+        "createdAt": "2026-02-24T02:55:50.579Z",
+        "createdBy": "system"
+      },
+      "cnh emitir": {
+        "level": "custom",
+        "roles": [
+          "1457776353314083087"
+        ],
+        "users": [],
+        "blockedChannels": [],
+        "allowedChannels": [],
+        "createdAt": "2026-02-24T03:03:24.115Z",
+        "createdBy": "system"
+      }
+    }
+  },
+  "channels": {},
+  "history": [
+    {
+      "action": "add_role",
+      "guildId": "1457328140681744418",
+      "command": "cnh emitir",
+      "roleId": "1457776353314083087",
+      "addedBy": "system",
+      "timestamp": "2026-02-24T03:03:24.115Z"
+    },
+    {
+      "action": "add_role",
+      "guildId": "1457328140681744418",
+      "command": "mandado emitir",
+      "roleId": "1457776353314083087",
+      "addedBy": "system",
+      "timestamp": "2026-02-24T02:55:50.579Z"
+    }
+  ],
+  "version": "2.0",
+  "lastBackup": "2026-02-24T03:09:47.841Z"
+}

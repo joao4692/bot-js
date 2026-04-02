@@ -1,0 +1,65 @@
+{
+  "version": "3.0",
+  "guilds": {},
+  "templates": {
+    "admin": {
+      "name": "Template Administrador",
+      "description": "Permissões completas para administradores",
+      "permissions": {
+        "level": "ADMIN",
+        "commands": [
+          "*"
+        ],
+        "categories": [
+          "*"
+        ],
+        "channels": [
+          "*"
+        ]
+      }
+    },
+    "moderator": {
+      "name": "Template Moderador",
+      "description": "Permissões de moderação",
+      "permissions": {
+        "level": "MODERATOR",
+        "commands": [
+          "ban",
+          "kick",
+          "mute",
+          "warn"
+        ],
+        "categories": [
+          "moderation"
+        ],
+        "channels": [
+          "*"
+        ]
+      }
+    },
+    "staff": {
+      "name": "Template Staff",
+      "description": "Permissões básicas de staff",
+      "permissions": {
+        "level": "STAFF",
+        "commands": [
+          "help",
+          "userinfo",
+          "serverinfo"
+        ],
+        "categories": [
+          "utility"
+        ],
+        "channels": [
+          "*"
+        ]
+      }
+    }
+  },
+  "auditLog": [],
+  "metadata": {
+    "created": "2026-03-25T04:47:17.392Z",
+    "lastUpdated": "2026-04-01T19:07:56.969Z",
+    "version": "3.0"
+  }
+}

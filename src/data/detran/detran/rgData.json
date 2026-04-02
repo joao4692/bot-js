@@ -1,0 +1,20 @@
+{
+  "1457328140681744418": {
+    "693689841665310770": {
+      "rg": {
+        "issued": true,
+        "number": "48491276",
+        "issuer": "DETRAN - Departamento Estadual de Trânsito",
+        "timestamp": 1769733043045
+      }
+    },
+    "922129389636976700": {
+      "rg": {
+        "issued": true,
+        "number": "166979265",
+        "issuer": "693689841665310770",
+        "timestamp": "2026-01-06T02:24:15.685Z"
+      }
+    }
+  }
+}

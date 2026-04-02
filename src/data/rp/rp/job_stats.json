@@ -1,0 +1,18 @@
+{
+    "1457328140681744418_1457251523850408109": {
+        "totalEarned": 4282,
+        "totalWorkSessions": 1,
+        "jobHistory": [
+            {
+                "jobId": "mechanic",
+                "times": 1,
+                "totalEarned": 4282,
+                "firstWorked": 1771739296195,
+                "lastWorked": 1771739296195
+            }
+        ],
+        "currentStreak": 1,
+        "longestStreak": 1,
+        "favoriteJob": "mechanic"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "prefix": "!",
+    "embedColor": "#0099ff",
+    "logChannel": null,
+    "adminRoles": [],
+    "staffRoles": [],
+    "commandPermissions": {},
+    "pixImage": null,
+    "pixKey": null,
+    "economy": {
+        "mode": "local",
+        "currency": "💰",
+        "dailyReward": 100,
+        "workReward": {
+            "min": 50,
+            "max": 200
+        },
+        "robChance": 0.4,
+        "interconnected_guilds": [],
+        "taxes": {
+            "deposit": 5,
+            "withdraw": 10,
+            "pay": 3
+        },
+        "loan": {
+            "maxLoan": 50000,
+            "interest": 0.1,
+            "dailyFine": 0.02,
+            "autoDiscount": true
+        }
+    },
+    "rp": {
+        "enabled": false
+    }
+}

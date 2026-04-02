@@ -1,0 +1,74 @@
+{
+    "1457328140681744418_922129389636976700": {
+        "isJailed": false,
+        "jailTime": 0,
+        "fines": [],
+        "records": [
+            {
+                "recordId": "68017c40-7823-4b79-a794-9fbc401aa5fc",
+                "reason": "assalto",
+                "officerId": "1457251523850408109",
+                "timestamp": "2026-01-06T01:23:04.259Z"
+            },
+            {
+                "recordId": "fcf9b297-4614-432c-bd6f-57ca6e7f7eb6",
+                "reason": "queria uma coisa que esta mole kkkkkk",
+                "officerId": "693689841665310770",
+                "timestamp": "2026-01-06T04:56:28.666Z"
+            },
+            {
+                "recordId": "4defb777-4d95-46df-9c64-1ee40f8760d7",
+                "reason": "assalto a mao amada",
+                "officerId": "1457251523850408109",
+                "timestamp": "2026-02-22T05:39:59.210Z"
+            }
+        ]
+    },
+    "1457328140681744418_607406044934832150": {
+        "isJailed": true,
+        "jailTime": 1767665492405,
+        "fines": [
+            {
+                "fineId": "052fabbd-e7e6-4ad7-a48b-753dc3f54549",
+                "amount": 50000,
+                "reason": "POR QUE EU QUERO",
+                "officerId": "1457251523850408109",
+                "timestamp": "2026-01-06T01:54:56.239Z",
+                "paid": false
+            }
+        ],
+        "records": [
+            {
+                "recordId": "68017c40-7823-4b79-a794-9fbc401aa5fc",
+                "reason": "assalto",
+                "officerId": "1457251523850408109",
+                "timestamp": "2026-01-06T01:23:04.259Z"
+            }
+        ]
+    },
+    "1457328140681744418_1223994414872006668": {
+        "isJailed": false,
+        "jailTime": 0,
+        "fines": [],
+        "records": [
+            {
+                "recordId": "87f3c1a7-d538-4420-88ce-ea868bb548a3",
+                "reason": "samuel me roubou e me agrediu fisicamente",
+                "officerId": "1457251523850408109",
+                "timestamp": "2026-01-06T04:54:12.572Z"
+            }
+        ]
+    },
+    "1457328140681744418_693689841665310770": {
+        "isJailed": false,
+        "jailTime": 0,
+        "fines": [],
+        "records": []
+    },
+    "1457328140681744418_1457251523850408109": {
+        "isJailed": false,
+        "jailTime": 0,
+        "fines": [],
+        "records": []
+    }
+}

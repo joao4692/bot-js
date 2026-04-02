@@ -1,0 +1,197 @@
+{
+    "surgeon": {
+        "name": "💊 Médico-Cirurgião",
+        "description": "Realiza cirurgias complexas e salva vidas em operações críticas.",
+        "salary": {
+            "min": 7500,
+            "max": 9500
+        },
+        "cooldown": 7200,
+        "required_item": null,
+        "category": "health",
+        "difficulty": "hard",
+        "requires_role": false
+    },
+    "paramedic": {
+        "name": "🚑 Médico-Socorrista",
+        "description": "Presta atendimento de emergência no local do incidente.",
+        "salary": {
+            "min": 5000,
+            "max": 6500
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "health",
+        "difficulty": "medium",
+        "requires_role": false
+    },
+    "lawyer": {
+        "name": "⚖️ Advogado",
+        "description": "Defende clientes em processos legais no tribunal.",
+        "salary": {
+            "min": 4500,
+            "max": 6500
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "legal",
+        "difficulty": "medium",
+        "requires_role": false
+    },
+    "judge": {
+        "name": "🔨 Juiz",
+        "description": "Preside casos na corte e toma decisões judiciais finais.",
+        "salary": {
+            "min": 9000,
+            "max": 12000
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "legal",
+        "difficulty": "hard",
+        "requires_role": false
+    },
+    "agent": {
+        "name": "🚗 Agente Detran",
+        "description": "Fiscaliza veículos, licenças e infrações de trânsito.",
+        "salary": {
+            "min": 4000,
+            "max": 5500
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "detran",
+        "difficulty": "medium",
+        "requires_role": true
+    },
+    "police_officer": {
+        "name": "🚔 Coronel da Polícia",
+        "description": "Lidera operações policiais e mantém a lei.",
+        "salary": {
+            "min": 8000,
+            "max": 12000
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "police",
+        "difficulty": "hard",
+        "requires_role": true
+    },
+    "police_soldier": {
+        "name": "👮 Soldado da Polícia",
+        "description": "Patrulha as ruas e responde a chamados de emergência.",
+        "salary": {
+            "min": 5000,
+            "max": 7000
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "police",
+        "difficulty": "medium",
+        "requires_role": true
+    },
+    "mayor": {
+        "name": "🏛️ Prefeito",
+        "description": "Governa a cidade e gerencia recursos municipais.",
+        "salary": {
+            "min": 10000,
+            "max": 15000
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "government",
+        "difficulty": "hard",
+        "requires_role": false
+    },
+    "trucker": {
+        "name": "🚚 Caminhoneiro",
+        "description": "Transporta cargas para diferentes regiões e ganha bônus ocasionais.",
+        "salary": {
+            "min": 2000,
+            "max": 3500
+        },
+        "cooldown": 9000,
+        "required_item": "truck_license",
+        "category": "transport",
+        "difficulty": "easy",
+        "requires_role": false
+    },
+    "taxi_driver": {
+        "name": "🚕 Motorista de Táxi",
+        "description": "Leva passageiros de um lado para outro da cidade.",
+        "salary": {
+            "min": 1500,
+            "max": 2500
+        },
+        "cooldown": 3600,
+        "required_item": null,
+        "category": "transport",
+        "difficulty": "easy",
+        "requires_role": false
+    },
+    "mechanic": {
+        "name": "🔧 Mecânico",
+        "description": "Conserta e mantém veículos em bom estado de funcionamento.",
+        "salary": {
+            "min": 3000,
+            "max": 4500
+        },
+        "cooldown": 6000,
+        "required_item": null,
+        "category": "service",
+        "difficulty": "medium",
+        "requires_role": false
+    },
+    "chef": {
+        "name": "👨‍🍳 Chef",
+        "description": "Prepara pratos deliciosos em um restaurante de qualidade.",
+        "salary": {
+            "min": 2500,
+            "max": 3800
+        },
+        "cooldown": 4800,
+        "required_item": null,
+        "category": "service",
+        "difficulty": "easy",
+        "requires_role": false
+    },
+    "miner": {
+        "name": "⛏️ Mineiro",
+        "description": "Extrai minério das profundezas da mina.",
+        "salary": {
+            "min": 1800,
+            "max": 2800
+        },
+        "cooldown": 7200,
+        "required_item": null,
+        "category": "labor",
+        "difficulty": "medium",
+        "requires_role": false
+    },
+    "fisher": {
+        "name": "🎣 Pescador",
+        "description": "Pesca peixes para vender no mercado.",
+        "salary": {
+            "min": 1200,
+            "max": 2000
+        },
+        "cooldown": 6000,
+        "required_item": "fishing_rod",
+        "category": "labor",
+        "difficulty": "easy",
+        "requires_role": false
+    },
+    "farmer": {
+        "name": "🌾 Agricultor",
+        "description": "Cultiva e colhe produtos agrícolas.",
+        "salary": {
+            "min": 2000,
+            "max": 3200
+        },
+        "cooldown": 5400,
+        "required_item": null,
+        "category": "labor",
+        "difficulty": "easy",
+        "requires_role": false
+    }
+}

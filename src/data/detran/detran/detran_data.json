@@ -1,0 +1,161 @@
+{
+    "693689841665310770_1457328140681744418": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": [
+            {
+                "plate": "YXS 1964",
+                "model": "ADA",
+                "ownerId": "693689841665310770",
+                "inGarage": true,
+                "timestamp": "2026-01-06T03:37:34.055Z"
+            }
+        ]
+    },
+    "1457328140681744418_922129389636976700": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": []
+    },
+    "922129389636976700_1457328140681744418": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": [
+            {
+                "plate": "JXP 5575",
+                "model": "sarka verde",
+                "ownerId": "922129389636976700",
+                "inGarage": true,
+                "timestamp": "2026-01-06T01:39:56.952Z"
+            }
+        ]
+    },
+    "1457328140681744418_1406652221231333386": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": []
+    },
+    "1457328140681744418_1457251523850408109": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": []
+    },
+    "1457328140681744418_1223994414872006668": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": []
+    },
+    "1223994414872006668_1457328140681744418": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": true,
+            "number": "68788077268",
+            "category": "A",
+            "issuer": "693689841665310770",
+            "timestamp": "2026-01-06T01:17:57.868Z"
+        },
+        "vehicles": []
+    },
+    "1457328140681744418_693689841665310770": {
+        "rg": {
+            "issued": false,
+            "number": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "cnh": {
+            "issued": false,
+            "number": null,
+            "category": null,
+            "issuer": null,
+            "timestamp": null
+        },
+        "vehicles": [
+            {
+                "plate": "YXS 1964",
+                "model": "ADA",
+                "ownerId": "693689841665310770",
+                "inGarage": true,
+                "timestamp": "2026-01-06T03:37:34.055Z"
+            },
+            {
+                "plate": "QEL 8315",
+                "model": "ada",
+                "ownerId": "693689841665310770",
+                "inGarage": true,
+                "timestamp": "2026-01-06T03:42:00.613Z"
+            }
+        ]
+    }
+}

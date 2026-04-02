@@ -1,0 +1,13 @@
+{
+    "whitelists": {
+        "1457328140681744418": {
+            "enabled": true,
+            "requiredRole": null,
+            "whitelistChannel": null,
+            "verifyMessage": "teste",
+            "approvedRole": null,
+            "autoRole": true,
+            "users": []
+        }
+    }
+}

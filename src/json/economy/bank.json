@@ -1,0 +1,9 @@
+{
+  "database": "json",
+  "economyMode": "guild",
+  "dailyReward": 500,
+  "antiFraud": {
+    "maxTransfer": 100000,
+    "cooldownPay": 60000
+  }
+}

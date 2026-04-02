@@ -1,0 +1,20 @@
+{
+    "prefix": "!",
+    "embedColor": "#0099ff",
+    "logChannel": null,
+    "adminRoles": [],
+    "economy": {
+        "mode": "local",
+        "currency": "💰",
+        "dailyReward": 100,
+        "workReward": {
+            "min": 50,
+            "max": 200
+        },
+        "robChance": 0.4,
+        "interconnected_guilds": []
+    },
+    "rp": {
+        "enabled": true
+    }
+}
